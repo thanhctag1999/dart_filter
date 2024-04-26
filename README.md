@@ -1,7 +1,7 @@
 # dart_filter
 
 1. Dart_Filter
-2. Dart puzzle is a application adds filters to photos with many beautiful effects
+2. Dart Filter is a application adds filters to photos with many beautiful effects
 3. You can add photos from your gallery or take a photo from your camera and choose from pre-made filters to create the perfect photo.
 
 <img src="https://github.com/thanhctag1999/dart_filter/assets/71964825/ef8d358b-c8b6-431e-bb2a-aae3605f48d4" width="280" height="540">
